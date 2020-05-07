@@ -1,7 +1,7 @@
 from subprocess import call
 from time import sleep
 call(["clear"])
-print ("\033[1;32;40m")
+print ("\033[1;32m")
 print ("""    ____   _   __             _____   __                      
   / __/  (_) / /_ ___  ____ / ___/  / / ___   ___  ___   ____
  _\ \   / / / __// -_)/___// /__   / / / _ \ / _ \/ -_) / __/
